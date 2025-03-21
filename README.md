@@ -30,6 +30,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&hide_border=true&theme=transparent)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=morcux&theme=github-compact)
+![Metrics](https://raw.githubusercontent.com/morcux/morcux/main/github-metrics.svg)
 
 ---
 
