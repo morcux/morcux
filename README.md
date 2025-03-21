@@ -2,6 +2,7 @@
 
 👨‍💻 Backend Developer
 📧 [mircusss69@gmail.com](mailto:mircusss69@gmail.com)
+
 🌐 [github.com/morcux](https://github.com/morcux)
 
 ---
