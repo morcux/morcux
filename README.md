@@ -27,9 +27,6 @@
 ### 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api/top-langs/?username=morcux&layout=compact&count_private=true&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats-eosin-beta-41.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
-![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=morcux&theme=transparent)](https://git.io/streak-stats)
 
 ---
