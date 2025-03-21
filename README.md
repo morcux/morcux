@@ -30,7 +30,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&hide_border=true&theme=transparent)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=morcux&theme=github-compact)
-![GitHub Stats](https://github-readme-stats-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-eosin-beta-41.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
 
 ---
 
