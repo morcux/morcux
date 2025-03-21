@@ -26,7 +26,7 @@
 ---
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=gruvbox)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=morcux&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
