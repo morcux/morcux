@@ -24,11 +24,10 @@
   Bots, APIs, automation tools, and scalable services using clean architecture.
 
 ---
+### 📊 My GitHub Stats
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api/top-langs/?username=morcux&layout=compact&count_private=true&theme=gruvbox)
 ![GitHub Stats](https://github-readme-stats-eosin-beta-41.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
 ![GitHub Stats](https://github-readme-stats-git-master-morcuxs-projects.vercel.app/api?username=morcux&show_icons=true&count_private=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=morcux&theme=transparent)](https://git.io/streak-stats)
