@@ -1,7 +1,7 @@
 # Dmytro Melnyk
 
 👨‍💻 Backend Developer | 🧰 Automation Enthusiast | 🌍 Freelancer  
-📧 [dmytro.mircus@gmail.com](mailto:dmytro.mircus@gmail.com) • 🌐 [github.com/morcux](https://github.com/morcux)
+📧 [dmytro.mircus@gmail.com](mailto:mircusss69@gmail.com) • 🌐 [github.com/morcux](https://github.com/morcux)
 
 ---
 
