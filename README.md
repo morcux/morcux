@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Dmytro Melnyk! 👋</h1>
-  <h3>Lead Backend Engineer | DevOps | AI Integrator</h3>
+  <h3>Backend Engineer | DevOps | AI Integrator</h3>
   
   <p>
-    Building scalable high-load systems with <b>Python, DDD, and Clean Architecture</b>. <br>
-    Focused on infrastructure optimization, observability, and LLM-based solutions.
+    Building scalable, fault-tolerant systems with <b>Python, DDD, and Clean Architecture</b>. <br>
+    Passionate about infrastructure optimization and modern AI solutions.
   </p>
 
   <a href="mailto:dmytro.mircus@gmail.com">
@@ -17,13 +17,14 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Technical Focus
 
-I am a results-driven **Backend Engineer** with a strong background in **DevOps**. My passion lies in building fault-tolerant microservices, optimizing cloud infrastructure costs (NATS vs RabbitMQ), and integrating modern AI tools (Gemini, RAG) into business processes.
+I specialize in backend development and infrastructure for complex environments. My work primarily revolves around:
 
-- 🔭 I’m currently working on **High-load Event Ticketing & AI Chatbot Systems**.
-- 🏗️ I specialize in **Domain-Driven Design (DDD)**, **Dependency Injection (Dishka)**, and **Contract-First APIs**.
-- 💬 Ask me about **FastAPI, NATS, System Architecture, and Vector Databases**.
+*   **System Architecture:** Designing microservices using Domain-Driven Design (DDD) principles.
+*   **Infrastructure & DevOps:** Managing CI/CD pipelines, containerization (Docker), and cloud deployments (AWS/GCP).
+*   **Performance Optimization:** Tuning message brokers (NATS/RabbitMQ) and databases for high-load scenarios.
+*   **AI Integration:** Implementing LLM-based logic (RAG, Agents) into production services.
 
 ---
 
@@ -51,24 +52,18 @@ I am a results-driven **Backend Engineer** with a strong background in **DevOps*
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 
-**AI & Specializations**  
-![AI Agents](https://img.shields.io/badge/AI_Agents-Gemini_&_ElevenLabs-black?style=flat-square)
-![Architecture](https://img.shields.io/badge/Architecture-DDD_&_Microservices-blueviolet?style=flat-square)
+**Specialized Tools**  
+![Architecture](https://img.shields.io/badge/Architecture-DDD_&_Clean_Arch-blueviolet?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Dishka_|_Adaptix_|_Alembic-success?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Gemini_&_Vector_DBs-black?style=flat-square)
 
 </div>
 
 ---
 
-### 💼 Professional Experience Highlights
+### 📊 GitHub Stats
 
-- **Lead Backend Engineer / DevOps** (NDA Project, 2022–Present)
-  - Managed cross-functional team processes.
-  - Reduced infrastructure costs by **~60%** via migration to NATS.
-  - Built AI-powered systems with RAG (Vector DBs).
-
-- **Backend & Frontend Developer** (TVSignals, 2023)
-  - Designed and delivered MVP logic for broadcasting architecture.
-  - Implemented responsive UI with React/TypeScript.
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&theme=radical&hide=issues&hide_title=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&theme=radical&hide_title=true" height="150" alt="languages graph" />
+</div>
