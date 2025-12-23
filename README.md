@@ -64,6 +64,6 @@ I specialize in backend development and infrastructure for complex environments.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&theme=radical&hide=issues&hide_title=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&theme=radical&hide=issues&hide_title=true&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&theme=radical&hide_title=true" height="150" alt="languages graph" />
 </div>
