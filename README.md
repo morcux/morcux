@@ -59,11 +59,3 @@ I specialize in backend development and infrastructure for complex environments.
 ![AI](https://img.shields.io/badge/AI-Gemini_&_Vector_DBs-black?style=flat-square)
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morcux&layout=compact&theme=radical&hide_title=true" height="150" alt="languages graph" />
-</div>
