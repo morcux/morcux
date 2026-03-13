@@ -68,7 +68,3 @@ My professional and open-source work primarily revolves around:
 
 </div>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morcux&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
