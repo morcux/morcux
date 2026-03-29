@@ -25,6 +25,7 @@ I spend my free time building infrastructure tooling, kernel-level tracers, and 
 *   🚦 **[Kubernetes Gateway API Controller](https://github.com/morcux/k8s-custom-controller)** — A custom ingress proxy implementing the modern **Gateway API** (`HTTPRoute`). Features a `controller-runtime` control plane watching `EndpointSlices`, and an embedded reverse proxy data plane with an atomic **Round-Robin load balancer** that routes traffic directly to Pod IPs.
 *   🌲 **[LSM-Tree Storage Engine](https://github.com/morcux/lsmtdb)** — A high-performance, embedded key-value storage engine engineered from scratch in Go. Features crash-safe **WAL** (CRC32), lock-free **SkipList MemTables**, **Bloom Filters**, and **K-way merge iterators** (Min-Heap) for seamless memory-to-disk range scans.
 *   📦 **[Distributed KV Storage](https://github.com/morcux/kv-storage)** — A custom, high-performance distributed key-value database written in Go. Features a from-scratch **Raft consensus** implementation (Leader Election, Log Replication, Snapshots, Read Index) and a Bitcask-style storage engine.
+*   🔄 **[Distributed CRDT Node (OR-Set)](https://github.com/morcux/or-set-crdt)** — A masterless, eventually consistent data structure in Go. Implements an **Observed-Remove Set** with Add-Wins semantics. Uses **Vector Clocks (DotContext)** for causal tracking and a background **P2P Gossip protocol** for delta-state synchronization and conflict-free convergence.
 *   ☸️ **[KV Kubernetes Operator](https://github.com/morcux/kv-operator)** — A custom K8s Operator built with **Kubebuilder** to automate the deployment, Raft bootstrapping, and lifecycle management of the `kv-storage` cluster via CRDs and StatefulSets.
 *   📈 **[Binance Market Data Ingestor](https://github.com/morcux/binance-ingestor)** — High-frequency crypto data pipeline. Streams WebSocket ticks, stores raw order books in **ClickHouse**, and calculates 1-minute OHLCV candles on-the-fly using `SummingMergeTree` & Materialized Views.
 *   🛴 **[Fleet Telemetry System](https://github.com/morcux/fleet-telemetry-system)** — High-throughput IoT tracking backend. Uses a custom **26-byte binary protocol**, **NATS JetStream**, and **Uber H3** geospatial indexing to track 10k+ concurrent connections.
@@ -68,6 +69,7 @@ My professional and open-source work primarily revolves around:
 ![Linux](https://img.shields.io/badge/Linux_Kernel-eBPF_|_kprobes_|_BPF__Maps-ebaa4c?style=flat-square)
 ![K8s](https://img.shields.io/badge/Orchestration-Operators_|_Gateway__API-success?style=flat-square)
 ![Distributed](https://img.shields.io/badge/Distributed_Systems-Raft_|_CAP_|_Linearizability-blueviolet?style=flat-square)
+![CRDTs](https://img.shields.io/badge/Distributed_Systems-Raft_|_CRDTs_|_Gossip_|_CAP-blueviolet?style=flat-square)
 ![Engines](https://img.shields.io/badge/Storage_Engines-LSM--Trees_|_Bitcask-black?style=flat-square)
 
 </div>
